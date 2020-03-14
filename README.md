@@ -1,2 +1,6 @@
 # Currency-Converter-
-currency converter   java ->>   get input value -- Toast popup  -- button click event 
+# Waht I Learn
+
+* get input value 
+* Toast popup
+* button click event 
